@@ -1,0 +1,12 @@
+demo.localhost {
+  reverse_proxy host.docker.internal:5173
+}
+
+cosmetic.localhost {
+  reverse_proxy host.docker.internal:5173
+}
+
+organ.localhost {
+  reverse_proxy host.docker.internal:5173
+}
+
