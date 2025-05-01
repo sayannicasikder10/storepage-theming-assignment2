@@ -1,6 +1,7 @@
 # Storepage Theming Assignment 2
 
 This project is a multi-theme medical platform that supports different specialties like Organ Transplant and Cosmetic Surgery. It uses React, Zustand for theme state, Tailwind for styling, and Caddy for subdomain-based local routing.
+> This is a sample pull request for assignment submission.
 
 
 ## ✅ Features Implemented
